@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/Fzcdalo">
-  <img src="https://komarev.com/ghpvc/?username=Fzcdalo&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+<a href="https://github.com/Fzcdalao">
+  <img src="https://komarev.com/ghpvc/?username=Fzcdalao&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </a>
 </p>
 
@@ -37,19 +37,20 @@
 
 > ✨ 重点方向：LangChain / LangGraph、向量数据库、MCP、RAG、多智能体
 
-### 📊 GitHub Stats
+ 📊 GitHub Stats（确认可用后可以取消注释）
 <p align="center">
-<img src="[https://github-readme-stats.vercel.app/api?username=Fzcdalo&show_icons=true&theme=tokyonight&hide_border=true" width="48%](https://github-readme-stats.vercel.app/api?username=Fzcdalo&show_icons=true&theme=tokyonight&hide_border=true" width="48%)" />
-<img src="[https://github-readme-streak-stats.herokuapp.com/?user=Fzcdalo&theme=tokyonight&hide_border=true](https://github-readme-streak-stats.herokuapp.com/?user=Fzcdalo&theme=tokyonight&hide_border=true)" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Fzcdalao&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Fzcdalao&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Fzcdalo&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats-mengguyi.vercel.app/api/top-langs/?username=Fzcdalo&layout=compact&theme=tokyonight&hide_border=true)" width="50%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fzcdalao&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
 </p>
+
 
 ### 🐍 Contribution Snake（提交贪吃蛇动画）
 <p align="center">
-  <img src="https://github.com/Fzcdalo/Fzcdalo/blob/output/github-contribution-grid-snake.svg" alt="snake" />
+  <img src="https://github.com/Fzcdalao/Fzcdalao/blob/output/github-contribution-grid-snake.svg" alt="snake" />
 </p>
 
 ### 📬 联系信息
