@@ -9,12 +9,21 @@ jobs:
     permissions:
       contents: write
     steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
       - name: Generate the snake
-        uses: Platane/snk@v3
+        uses: Platane/snk/svg-only@v3   # 用 svg-only 更轻量，专为 README 生成 SVG
         with:
           github_user_name: Fzcdalao
           outputs: |
             github-contribution-grid-snake.svg
             github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push the SVG back to the repo
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update contribution snake"
+          file_pattern: "github-contribution-grid-snake*.svg"
 
 
