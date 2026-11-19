@@ -9,9 +9,6 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
       - name: Generate snake animation
         uses: Platane/snk@v3
         with:
@@ -19,5 +16,5 @@ jobs:
           outputs: |
             github-contribution-grid-snake.svg
             github-contribution-grid-snake-dark.svg?palette=github-dark
-          gif_out: github-contribution-grid-snake.gif
-          target_branch: main
+          target_branch: output
+
