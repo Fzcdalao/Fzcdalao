@@ -9,6 +9,7 @@ jobs:
     permissions:
       contents: write
     steps:
+      - uses: actions/checkout@v4
       - name: Generate snake animation
         uses: Platane/snk@v3
         with:
