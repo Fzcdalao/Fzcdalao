@@ -37,7 +37,7 @@
 
 > ✨ 重点方向：LangChain / LangGraph、向量数据库、MCP、RAG、多智能体
 
- 📊 GitHub Stats（确认可用后可以取消注释）
+ 📊 GitHub Stats
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Fzcdalao&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fzcdalao&theme=tokyonight&hide_border=true" width="48%" />
@@ -48,7 +48,7 @@
 </p>
 
 
-### 🐍 Contribution Snake（提交贪吃蛇动画）
+### 🐍 Contribution Snake
 <p align="center">
   <img src="https://github.com/Fzcdalao/Fzcdalao/blob/output/github-contribution-grid-snake.svg" alt="snake" />
 </p>
